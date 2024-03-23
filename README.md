@@ -6,15 +6,15 @@
   <img src="https://media.giphy.com/media/3TdV1b87lcbv3SDoa3/giphy.gif" alt="Dancing Robot" width="300">
   <br>
   <span>
-    <img src="https://komarev.com/ghpvc/?username=yeshwanthguru&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwanthguru">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeshwanthguru" alt="yeshwanthguru"></a>
+    <img src="https://komarev.com/ghpvc/?username=Koushikmani&label=Profile%20views&color=0e75b6&style=flat" alt="Koushikmani">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Koushikmani" alt="Koushikmani"></a>
     <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""></a>
   </span>
 </p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-  <a href="mailto:yeshwanth445@gmail.com">📫 yeshwanth445@gmail.com</a>
+  <a href="mailto:koushikmani26@gmail.com">📫 koushikmani26@gmail.com</a>
 </p>
 
 
@@ -52,6 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanthguru&show_icons=true&locale=en&theme=white" alt="yeshwanthguru" /></p>
 
 <!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshwanthguru&theme=white" alt="yeshwanthguru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshwanthguru&theme=white" alt="Koushikmani" /></p>
 
 
