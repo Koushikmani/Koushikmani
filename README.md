@@ -49,9 +49,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Koushikmani&show_icons=true&locale=en&layout=compact&theme=white" alt="Koushikmani" /></p>
 
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwanthguru&show_icons=true&locale=en&theme=white" alt="Koushikmani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushikmani&show_icons=true&locale=en&theme=white" alt="Koushikmani" /></p>
 
 <!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshwanthguru&theme=white" alt="Koushikmani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Koushikmaniyeshwanthguru&theme=white" alt="Koushikmani" /></p>
 
 
